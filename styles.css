@@ -1,0 +1,20 @@
+body {
+    font-size: 1.3rem;
+    line-height: 1.65;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    background-color: gray;
+    margin: 2em;
+}
+
+.About {
+    float: left;
+}
+
+.Port {
+    float: right;
+}
+
+.PortfolioHeader {
+    color: blue;
+}
