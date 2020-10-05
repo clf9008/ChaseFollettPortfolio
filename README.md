@@ -10,4 +10,10 @@ The homepage of the portfolio website features a Navigation Bar that will take y
 
 ### Portfolio Page
 
-![Image of Portfolio Page](https:)
+![Image of Portfolio Page](https://github.com/clf9008/ChaseFollettPortfolio/blob/main/Assets/PortfolioPage.png?raw=true)
+
+The portfolio page is home to some photo's of Chase and his hobbies. Additionally, the navigation bar remains at the top and will link you back to 'Home' or to the 'Contacts' page. Images on this page include some of Chase running the Columbus Marathon, images of him at the Indianopolis 500, and some images of him playing guitar and his favorite band Metallica. 
+
+### Contacts Page
+
+![Image of Contacts Page]()
