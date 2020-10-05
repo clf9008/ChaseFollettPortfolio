@@ -19,3 +19,9 @@ body {
 .PortfolioHeader {
     color: black;
 }
+
+.img-responsive {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
