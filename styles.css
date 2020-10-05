@@ -18,6 +18,11 @@ body {
 
 .PortfolioHeader {
     color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+    font-weight: bold;
+    padding: 10px;
+    border: 10px;
 }
 
 .img-responsive {
