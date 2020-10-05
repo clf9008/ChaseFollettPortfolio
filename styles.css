@@ -3,7 +3,7 @@ body {
     font-size: 1.3rem;
     line-height: 1.65;
     font-family: 'Times New Roman', Times, serif;
-    color: blue;
+    color: black;
     background-color: lightgray;
     margin: 2em;
 }
@@ -18,7 +18,7 @@ body {
 
 .PortfolioHeader {
     color: black;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 45px;
     font-weight: bold;
     padding: 10px;
