@@ -1,26 +1,36 @@
 body {
-
-    font-size: 1.3rem;
-    line-height: 1.65;
-    color: black;
-    background-color: lightgray;
-    margin: 2em;
-}
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("Assets/OceanBackground.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
 
 .About {
     float: left;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.AboutMe2 {
+    float: left;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .Port {
     float: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .PortfolioHeader {
     color: black;
-    font-size: 45px;
+    font-size: 50px;
     font-weight: bold;
     padding: 10px;
     border: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .img-responsive {
@@ -29,6 +39,9 @@ body {
     margin-right: auto;
 }
 
-.btn btn-primary {
-    
+#card-email {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+
 }
